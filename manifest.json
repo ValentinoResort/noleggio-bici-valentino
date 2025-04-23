@@ -1,8 +1,8 @@
 
 {
-  "name": "Noleggio Bici - Valentino Resort",
-  "short_name": "Noleggio Bici",
-  "start_url": "noleggio_bici.html",
+  "name": "Noleggio Bici",
+  "short_name": "Bici",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#d32f2f",
